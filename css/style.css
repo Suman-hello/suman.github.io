@@ -1,0 +1,32 @@
+.main-paragraph{
+	text-align: justify;
+}
+footer{
+	padding: 50px 0;
+	background: rgb(52, 58, 64);
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+}
+.about-page{
+	border: 1px solid #cecece;
+	padding: 20px;
+}
+.about-title{
+	padding: 20px;
+	border-radius: 20px 20px 0 0;
+}
+.service{
+	margin-top: 20px;
+}
+.sidebar-column{
+	border:1px solid #cecece;
+	padding: 15px;
+}
+.latest-heading{
+	background: black;
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+
+}
